@@ -6,7 +6,6 @@
 ## Alberto Limón Cancino (DB/Backend)
 ## Paul Araque Fernandez (DB/Backend)
 ## Gabriel, Edid Harari (Full-Stack)
-
-## Do Kyu Han (Full-stack)
+## A01025119: Do Kyu, Han (Full-stack)
 
 502 - Desarrollo Avanzado de Aplicaciones Web
