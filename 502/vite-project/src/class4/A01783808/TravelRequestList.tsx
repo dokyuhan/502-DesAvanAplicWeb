@@ -5,7 +5,7 @@ const TravelRequestList: React.FC = () => (
   <TravelRequestFetcher
     render={({ travelRequests, loading, error }) => {
       if (loading) return <p className="text-gray-500">Cargando…</p>;
-      if (error) return <p className="text-red-600">Error: {error.message}</p>;
+      if (error) return <p className=" text-red-600">Error: {error.message}</p>;
 
       return (
         <ul className="space-y-2">

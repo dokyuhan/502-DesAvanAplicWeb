@@ -83,7 +83,7 @@ const TravelRequestForm: React.FC = () => {
         placeholder="Purpose"
         value={state.purpose}
         onChange={(e) => handleChange("purpose", e.target.value)}
-        className="w-full mb-4 px-4 py-2 border rounded-md"
+        className="w-full mb-4 px-4  py-2 border rounded-md"
       />
 
       <Button onClick={handleSubmit}>Submit</Button>

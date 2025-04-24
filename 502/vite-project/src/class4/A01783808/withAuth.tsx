@@ -18,3 +18,5 @@ const withAuth = <P extends object>(Wrapped: ComponentType<P>): FC<P> => {
 };
 
 export default withAuth;
+
+// g

@@ -7,7 +7,7 @@ interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
 const Button: React.FC<ButtonProps> = ({ children, ...rest }) => (
   <button
     {...rest}
-    className={`w-full py-2 px-4 rounded-md text-white transition
+    className={`w-full py-2  px-4 rounded-md text-white transition
                 ${
                   rest.disabled
                     ? "bg-blue-300 cursor-not-allowed"
