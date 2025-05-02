@@ -73,7 +73,6 @@ function App() {
       >
         Clases Tomas Molina
         </a>
-
         <a
         href="/src/menu/A01028038/index.html"
         style={{ display: "block", marginTop: "1rem" }}
