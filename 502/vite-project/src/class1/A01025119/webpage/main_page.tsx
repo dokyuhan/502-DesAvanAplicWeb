@@ -136,6 +136,24 @@ export const A01025119 = () => {
                 Class 7: WebSocket
               </button>
             </div>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+              <div className="explanation-box">
+                <h2 style={{ marginTop: 0 }}>Class 8: Testing con Jest y Cypress</h2>
+                <ul style={{ listStyleType: "disc", paddingLeft: "1.5rem", textAlign: "left" }}>
+                  <li><strong>Para ejecutar la prueba con Jest:</strong></li>
+                  <ul>
+                    <li>Ve a la carpeta <code>vite-project</code>.</li>
+                    <li>Ejecuta el comando <code>npm test</code>.</li>
+                  </ul>
+                  <li><strong>Para ejecutar la prueba con Cypress:</strong></li>
+                  <ul>
+                    <li>Ingresa a la carpeta <code>A01025119</code>, dentro de la clase 8.</li>
+                    <li>Ejecuta el comando <code>npx cypress open</code>.</li>
+                    <li>Desde la interfaz gráfica podrás visualizar y correr la prueba.</li>
+                  </ul>
+                </ul>
+              </div>
+            </div>
           </div>
         );
     }
