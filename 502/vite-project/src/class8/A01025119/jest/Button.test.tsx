@@ -1,5 +1,3 @@
-// src/class8/A01025119/Button.test.tsx
-import React from "react";
 import { render, fireEvent } from "@testing-library/react";
 import Button from "../../../class2/A01025119/Button";
 
